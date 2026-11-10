@@ -1,4 +1,4 @@
-# certifi GHSA scanner
+# Certification GHSA scanner
 
 `scan_certifi_ghsa.py` searches one or more GitHub organizations for Python dependency files that pin a vulnerable version of [`certifi`](https://pypi.org/project/certifi/), and writes a report of what it finds.
 
